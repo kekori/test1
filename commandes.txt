@@ -1,8 +1,10 @@
 commandes pour git :
 1) On sélectionne le fichier mère
 On ouvre le git bash
+
 git init pour lancer un projet git
 
+git tree //nécessite l'alias (check google), affiche tt l'historique des commits
 
 git checkout -b <nom> //ça crée une nouvelle branche
 

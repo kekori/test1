@@ -20,3 +20,9 @@ git checkout <nom de la branche> //change de branche
 
 git merge --no-ff feature //merge la feature à la main, il faut que la head soit sur la main
 
+git rebase //en etant sur la branche que l'on souhaite bouger, permet de décaler les commits sur une autre branche
+
+git stash //envoie les changements non commit dans une stash
+
+git stash pop//réouvre la stash (on peut les empiler)
+

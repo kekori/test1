@@ -26,6 +26,8 @@ git stash //envoie les changements non commit dans une stash
 
 git stash pop//réouvre la stash (on peut les empiler)
 
+git tag 1.0.0//tag un commit, pointe toujours vers le même commit, on peut le checkout, ça y reviendra toujours
+
 git revert <Hash>//annule les changements d'un commit
 
 git cherry-pick <Hash> // récupère un seul commit

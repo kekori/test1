@@ -26,3 +26,9 @@ git stash //envoie les changements non commit dans une stash
 
 git stash pop//réouvre la stash (on peut les empiler)
 
+git revert <Hash>//annule les changements d'un commit
+
+git cherry-pick <Hash> // récupère un seul commit
+
+
+

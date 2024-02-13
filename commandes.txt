@@ -3,5 +3,15 @@ commandes pour git :
 On ouvre le git bash
 git init pour lancer un projet git
 
+
+
+
 git commit -m <nom> //ça bypass le nom du commit
 git commit -a //ça fait git add PUIS git commit
+
+
+git commit -am "<nom du commit>" //fait un git commit en savant tout et en bypassant le nom sur ide
+
+git checkout <nom de la branche> //change de branche
+
+git merge --no-ff feature //merge la feature à la main, il faut que la head soit sur la main

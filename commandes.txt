@@ -1,2 +1,7 @@
 commandes pour git :
 1) On sélectionne le fichier mère
+On ouvre le git bash
+git init pour lancer un projet git
+
+git commit -m <nom> //ça bypass le nom du commit
+git commit -a //ça fait git add PUIS git commit

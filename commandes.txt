@@ -18,3 +18,4 @@ git commit -am "<nom du commit>" //fait un git commit en savant tout et en bypas
 git checkout <nom de la branche> //change de branche
 
 git merge --no-ff feature //merge la feature à la main, il faut que la head soit sur la main
+

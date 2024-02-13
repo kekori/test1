@@ -4,9 +4,10 @@ On ouvre le git bash
 git init pour lancer un projet git
 
 
-
+git checkout -b <nom> //ça crée une nouvelle branche
 
 git commit -m <nom> //ça bypass le nom du commit
+
 git commit -a //ça fait git add PUIS git commit
 
 

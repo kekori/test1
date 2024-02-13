@@ -1,0 +1,2 @@
+commandes pour git :
+1) On sélectionne le fichier mère

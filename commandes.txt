@@ -5,6 +5,7 @@ On ouvre le git bash
 git init pour lancer un projet git
 
 git tree //nécessite l'alias (check google), affiche tt l'historique des commits
+git status //affiche l'état des changements et sur quelle branche on est
 
 git checkout -b <nom> //ça crée une nouvelle branche
 

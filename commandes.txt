@@ -42,3 +42,5 @@ git push -u origin main
 
 git push --force (ou -f)// Force github à considérer la version locale comme étant la bonne (dangereux)
 
+git pull --rebase (ou--no-rebase)// reécupère les fichiers de la source
+

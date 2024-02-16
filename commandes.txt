@@ -37,3 +37,8 @@ git reset --soft //ou--hard// <Hash> // revient  au commit dont le hash est ment
 git commit --amend -m <Nom> // modifie le dernier commit, on peut le renommer aussi
 
 git branch -M <nouveau nom> // modifie le nom de la branche actuelle
+
+git push -u origin main
+
+git push --force (ou -f)// Force github à considérer la version locale comme étant la bonne (dangereux)
+

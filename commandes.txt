@@ -35,3 +35,5 @@ git cherry-pick <Hash> // récupère un seul commit
 git reset --soft //ou--hard// <Hash> // revient  au commit dont le hash est mentionné
 
 git commit --amend -m <Nom> // modifie le dernier commit, on peut le renommer aussi
+
+git branch -M <nouveau nom> // modifie le nom de la branche actuelle
